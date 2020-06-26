@@ -1,0 +1,18 @@
+{ 
+    "user_id" : 1, 
+	"id" : 1,
+    "name" : "Srikanth", 
+    "body" : "srk#gmail.com"
+}
+{ 
+    "user_id" : 2, 
+	"id" : 2,
+    "name" : "Srnath", 
+    "body" : "srn#gmail.com"
+}
+{ 
+    "user_id" : 3, 
+	"id" : 3,
+    "name" : "Usha", 
+    "body" : "ushapv#gmail.com"
+}
